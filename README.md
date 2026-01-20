@@ -1,7 +1,7 @@
 <img src="https://drive.google.com/file/d/19YfiWm4eHXjkzTEDgfk65Mju6yPA2FzQ/view?usp=sharing" width="100%" />
 
 # ¡Hola! Soy Diego Barocio 👋  
-### Data Scientist | Emprendedor | Fundador de Biply
+### Data Scientist | Emprendedor | Fundador de Biply y Gritt
 
 Apasionado por resolver problemas reales con datos, automatización e inteligencia artificial. Actualmente me desempeño como **Data Scientist en formación avanzada**, mientras lidero proyectos digitales desde **[Biply.io](https://www.biply.io)**, mi agencia enfocada en diseño web de alto rendimiento y automatización con IA.
 
